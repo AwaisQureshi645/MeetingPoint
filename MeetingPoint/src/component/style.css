@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.user_id{
+    width: 20rem;
+    height: auto;
+}
+.mainHeading{
+    margin-top: -3rem;
+    color: white;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    font-weight: 1000px
+    ;
+}
+.form_comnents{
+    width: 22rem;
+    padding: 5rem 1rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+    background-color: #127765;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 1rem;
+}
+.user_id input{
+    margin-bottom: 1rem;
+}
+.user_id button{
+    width: 10rem;
+    height: 5vh;
+    background-color: blue;
+    color: antiquewhite;
+}
+.meeting_point{
+    width: 100%;
+    height: 100%;
+}
+.QajuHzlZleFtiTUp_E8u .D9WLyEQaARfWqCTyVrpU {
+    width: 100vw; /* 100% of the viewport width */
+  height: 100vh; /* 100% of the viewport height */
+    padding: 8px;
+    margin-top: 7rem;
+    border-radius: 12px;
+    box-shadow: 0px 12px 20px 0px #eaecf1;
+}
+.share_link{
+    margin: auto;
+    width: 20rem;
+    height: auto;
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+.share_link button{
+    background-color: gray;
+    margin: auto;
+    margin-top: 1rem;
+    width: 5rem;
+}
